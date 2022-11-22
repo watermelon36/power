@@ -1,0 +1,23 @@
+.body_background 
+{
+    background-image:url('B6eBefT.jpg');
+    background-position:cover;
+    background: height 1000px;;
+    background-size: 100%;
+    background: width 2500px; ;
+    font-size: 30px;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h3
+{
+	width: 600px;
+	background-color: white;
+	display: inline-block;
+}
+
